@@ -1,0 +1,101 @@
+
+Conversations
+>
+v0.8
+Mark as Unread
+Star Conversation
+Leave Conversation
+
+    rIKmAN
+    rIKmAN
+    Member
+
+        2017-04-05 09:17:41.070 SQLiteIosExtension_v0_8[685:100871] uk.co.ram-interactive.SQLiteMacOSExtension08
+        2017-04-05 09:17:41.255 SQLiteIosExtension_v0_8[685:100871] Screen size is 1536.000000,2048.000000
+        2017-04-05 09:17:41.301 SQLiteIosExtension_v0_8[685:100871]  * * * * * * Register  audio Interruption callback * * * *
+        2017-04-05 09:17:41.334 SQLiteIosExtension_v0_8[685:100871] Failed to make complete framebuffer object 8219
+        2017-04-05 09:17:41.509 SQLiteIosExtension_v0_8[685:100871] InitRunner
+        2017-04-05 09:17:41.509 SQLiteIosExtension_v0_8[685:100871] FreeSplash
+        2017-04-05 09:17:41.515 SQLiteIosExtension_v0_8[685:100871] FreePNGFile()
+        2017-04-05 09:17:41.518 SQLiteIosExtension_v0_8[685:100871] FreeSplash - finished
+        2017-04-05 09:17:41.518 SQLiteIosExtension_v0_8[685:100871]
+        ***************************************
+        *     YoYo Games iPad Runner V0.1      *
+        ***************************************    
+        2017-04-05 09:17:41.518 SQLiteIosExtension_v0_8[685:100871] CommandLine: -game "/var/containers/Bundle/Application/39B80D9B-507D-4C09-B604-3CAB3261B70E/SQLiteIosExtension_v0_8.app/games/game.ios"
+        2017-04-05 09:17:41.518 SQLiteIosExtension_v0_8[685:100871] MemoryManager allocated: 1787256
+        2017-04-05 09:17:41.522 SQLiteIosExtension_v0_8[685:100871] Expecting 1 extensions
+        2017-04-05 09:17:41.523 SQLiteIosExtension_v0_8[685:100871] Attempting to create extension class SQLiteIosExtension
+        2017-04-05 09:17:41.523 SQLiteIosExtension_v0_8[685:100871] Created 1 classes
+        2017-04-05 09:17:41.523 SQLiteIosExtension_v0_8[685:100871] End SetupExtensions
+        2017-04-05 09:17:41.524 SQLiteIosExtension_v0_8[685:100871] - - - - SetupPushNotifcations
+        2017-04-05 09:17:41.527 SQLiteIosExtension_v0_8[685:100871] Attempting to set gamepadcount to 5
+        2017-04-05 09:17:41.581 SQLiteIosExtension_v0_8[685:100871] OpenGL: version string OpenGL ES 2.0 Apple A7 GPU - 77.14
+        2017-04-05 09:17:41.581 SQLiteIosExtension_v0_8[685:100871] OpenGL: vendor string Apple Inc.
+        2017-04-05 09:17:41.581 SQLiteIosExtension_v0_8[685:100871] OpenGL GLSL: version string OpenGL ES GLSL ES 1.00
+        2017-04-05 09:17:41.581 SQLiteIosExtension_v0_8[685:100871] OpenGL: VBOs supported
+        2017-04-05 09:17:41.582 SQLiteIosExtension_v0_8[685:100871] OpenGL: Non-power-of-two textures supported
+        2017-04-05 09:17:41.582 SQLiteIosExtension_v0_8[685:100871] OpenGL: 24bit depth supported
+        2017-04-05 09:17:41.582 SQLiteIosExtension_v0_8[685:100871] OpenGL: packed 24bit depth/8bit stencil supported
+        2017-04-05 09:17:41.582 SQLiteIosExtension_v0_8[685:100871] OpenGL: seperate 8bit stencil supported
+        2017-04-05 09:17:41.582 SQLiteIosExtension_v0_8[685:100871] Check TextureID
+        2017-04-05 09:17:41.582 SQLiteIosExtension_v0_8[685:100871] finished(2)!!
+        2017-04-05 09:17:41.854 SQLiteIosExtension_v0_8[685:100871] Texture #1 16,16
+        2017-04-05 09:17:41.855 SQLiteIosExtension_v0_8[685:100871] Texture #2 16,16
+        2017-04-05 09:17:41.855 SQLiteIosExtension_v0_8[685:100871] Check TextureID
+        2017-04-05 09:17:41.855 SQLiteIosExtension_v0_8[685:100871] finished(2)!!
+        2017-04-05 09:17:42.006 SQLiteIosExtension_v0_8[685:100871] Total memory used = 7162883(0x006d4c03) bytes
+        2017-04-05 09:17:42.302 SQLiteIosExtension_v0_8[685:100871] Texture #3 256,512
+        2017-04-05 09:17:42.675 SQLiteIosExtension_v0_8[685:100871] Failed to make complete framebuffer object 8219
+        2017-04-05 09:17:51.000 SQLiteIosExtension_v0_8[685:100871] SQLiteIosGetDocumentsPath: /var/mobile/Containers/Data/Application/73CCD7FD-FE06-46E6-9DFC-2857620BCAAB/Documents
+        2017-04-05 09:17:51.000 SQLiteIosExtension_v0_8[685:100871] docsPath=/var/mobile/Containers/Data/Application/73CCD7FD-FE06-46E6-9DFC-2857620BCAAB/Documents
+        2017-04-05 09:17:51.001 SQLiteIosExtension_v0_8[685:100871] /var/containers/Bundle/Application/39B80D9B-507D-4C09-B604-3CAB3261B70E/SQLiteIosExtension_v0_8.app/games/databases/ios.db=exists=1
+        2017-04-05 09:17:51.009 SQLiteIosExtension_v0_8[685:100871] /var/mobile/Containers/Data/Application/73CCD7FD-FE06-46E6-9DFC-2857620BCAAB/Documents/ios2.db=exists=1
+        2017-04-05 09:17:51.014 SQLiteIosExtension_v0_8[685:100871] Opened database = 0
+        2017-04-05 09:17:51.015 SQLiteIosExtension_v0_8[685:100871] SQLite version = SQLiteIosGetLibVersion:3.8.10.2:2015-05-20 18:17:19 2ef4f3a5b1d1d0c4338f8243d40a2452cc1f7fe4:3008010
+        2017-04-05 09:17:51.016 SQLiteIosExtension_v0_8[685:100871] Query open result = 0
+        2017-04-05 09:17:51.017 SQLiteIosExtension_v0_8[685:100871] Table:t1
+        2017-04-05 09:17:51.017 SQLiteIosExtension_v0_8[685:100871] Query get next result = -1
+        2017-04-05 09:17:51.017 SQLiteIosExtension_v0_8[685:100871] Query end result = -1
+        2017-04-05 09:17:51.018 SQLiteIosExtension_v0_8[685:100871] Query close result = 0
+        2017-04-05 09:17:51.034 SQLiteIosExtension_v0_8[685:100871] SQLiteIosExecuteSQL result: 0
+        2017-04-05 09:17:51.035 SQLiteIosExtension_v0_8[685:100871] Drop table = 0
+        2017-04-05 09:17:51.050 SQLiteIosExtension_v0_8[685:100871] SQLiteIosExecuteSQL result: 0
+        2017-04-05 09:17:51.051 SQLiteIosExtension_v0_8[685:100871] Created table = 0
+        2017-04-05 09:17:51.062 SQLiteIosExtension_v0_8[685:100871] SQLiteIosExecuteInsert result: 0
+        2017-04-05 09:17:51.062 SQLiteIosExtension_v0_8[685:100871] Insert values = 1
+        2017-04-05 09:17:51.074 SQLiteIosExtension_v0_8[685:100871] SQLiteIosExecuteInsert result: 0
+        2017-04-05 09:17:51.075 SQLiteIosExtension_v0_8[685:100871] Insert values = 2
+        2017-04-05 09:17:51.075 SQLiteIosExtension_v0_8[685:100871] Query open result = 0
+        2017-04-05 09:17:51.075 SQLiteIosExtension_v0_8[685:100871] Column count = 2
+        2017-04-05 09:17:51.076 SQLiteIosExtension_v0_8[685:100871] [0,0]:2
+        2017-04-05 09:17:51.076 SQLiteIosExtension_v0_8[685:100871] [0,1]:50
+        2017-04-05 09:17:51.077 SQLiteIosExtension_v0_8[685:100871] Query get next result = 0
+        2017-04-05 09:17:51.077 SQLiteIosExtension_v0_8[685:100871] [1,0]:1
+        2017-04-05 09:17:51.077 SQLiteIosExtension_v0_8[685:100871] [1,1]:123
+        2017-04-05 09:17:51.077 SQLiteIosExtension_v0_8[685:100871] Query get next result = 0
+        2017-04-05 09:17:51.078 SQLiteIosExtension_v0_8[685:100871] Query end result = 0
+        2017-04-05 09:17:51.078 SQLiteIosExtension_v0_8[685:100871] Query close result = 0
+        2017-04-05 09:17:51.093 SQLiteIosExtension_v0_8[685:100871] SQLiteIosExecuteInsert result: 0
+        2017-04-05 09:17:51.094 SQLiteIosExtension_v0_8[685:100871] Updated rows = 1
+        2017-04-05 09:17:51.094 SQLiteIosExtension_v0_8[685:100871] Query open result = 0
+        2017-04-05 09:17:51.094 SQLiteIosExtension_v0_8[685:100871] Column count = 2
+        2017-04-05 09:17:51.095 SQLiteIosExtension_v0_8[685:100871] [0,0]:1
+        2017-04-05 09:17:51.095 SQLiteIosExtension_v0_8[685:100871] [0,1]:123
+        2017-04-05 09:17:51.095 SQLiteIosExtension_v0_8[685:100871] Query get next result = 0
+        2017-04-05 09:17:51.096 SQLiteIosExtension_v0_8[685:100871] [1,0]:2
+        2017-04-05 09:17:51.096 SQLiteIosExtension_v0_8[685:100871] [1,1]:1150
+        2017-04-05 09:17:51.096 SQLiteIosExtension_v0_8[685:100871] Query get next result = 0
+        2017-04-05 09:17:51.096 SQLiteIosExtension_v0_8[685:100871] Query end result = 0
+        2017-04-05 09:17:51.097 SQLiteIosExtension_v0_8[685:100871] Query close result = 0
+        2017-04-05 09:17:51.108 SQLiteIosExtension_v0_8[685:100871] SQLiteIosExecuteInsert result: 0
+        2017-04-05 09:17:51.108 SQLiteIosExtension_v0_8[685:100871] Deleted rows = 1
+        2017-04-05 09:17:51.108 SQLiteIosExtension_v0_8[685:100871] Query open result = 0
+        2017-04-05 09:17:51.109 SQLiteIosExtension_v0_8[685:100871] Column count = 2
+        2017-04-05 09:17:51.109 SQLiteIosExtension_v0_8[685:100871] [0,0]:2
+        2017-04-05 09:17:51.110 SQLiteIosExtension_v0_8[685:100871] [0,1]:1150
+        2017-04-05 09:17:51.110 SQLiteIosExtension_v0_8[685:100871] Query get next result = 0
+        2017-04-05 09:17:51.111 SQLiteIosExtension_v0_8[685:100871] Query end result = 0
+        2017-04-05 09:17:51.111 SQLiteIosExtension_v0_8[685:100871] Query close result = 0
+        2017-04-05 09:17:51.112 SQLiteIosExtension_v0_8[685:100871] Closed database result = 0
+

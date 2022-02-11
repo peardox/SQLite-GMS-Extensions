@@ -1,0 +1,11 @@
+set -x
+
+i686-w64-mingw32-gcc -m32 -O2 -lpthread -c -Wno-deprecated-declarations sqlite3.c
+
+i686-w64-mingw32-gcc -m32 -O2 -lpthread -c -DBUILD_DLL SQLiteWinExtension.c
+
+i686-w64-mingw32-gcc -m32 -O2 -lpthread -shared -o SQLiteWinExtension.dll SQLiteWinExtension.o sqlite3.o
+
+###i686-w64-mingw32-gcc -m32 -O2 -lpthread -shared -o SQLiteWinExtension.dll SQLiteWinExtension.o sqlite3.o -Wl,--export-all-symbols -Wl,--export-all-symbols
+
+###strip --strip-all SQLiteWinExtension.dll

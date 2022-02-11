@@ -1,0 +1,9 @@
+
+REM mingw
+
+REM Make SQLite object file:
+gcc -O2 -lpthread -m64 -c -Wno-deprecated-declarations sqlite3.c
+
+REM Build DLL:
+gcc -O2 -lpthread -m64 -c -DBUILD_DLL SQLiteWinExtension.c
+gcc -O2 -lpthread -m64 -shared -o SQLiteWinExtension.dll SQLiteWinExtension.o sqlite3.o

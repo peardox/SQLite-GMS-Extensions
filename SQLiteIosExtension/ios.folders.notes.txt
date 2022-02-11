@@ -1,0 +1,38 @@
+##################################################################################################################
+# Documents directory
+# Foundation 
+NSArray  *paths = NSSearchPathForDirectoriesInDomains (NSDocumentDirectory, NSUserDomainMask, YES);
+NSString *documentsPath = [paths objectAtIndex:0];
+NSString *fooPath = [documentsPath stringByAppendingPathComponent:@“foo.plist”];
+
+# Actual Document's path is :
+/var/mobile/Containers/Data/Application/73CCD7FD-FE06-46E6-9DFC-2857620BCAAB/Documents
+# Bundle's read only path :
+/var/containers/Bundle/Application/22C92B6A-0D84-48BD-ABF3-4D4583B92B44/SQLiteIosExtension_v0_5.app/games/
+##################################################################################################################
+file_copy(fname, newname);
+
+if file_exists("level.txt")
+
+file_bin_open(fname, mode);
+    0 = reading
+    1 = writing
+    2 = both reading and writing
+file_bin_close(file);
+ 
+var num = zip_unzip("/downloads/level_data.zip", "/extracted/"); 
+
+show_debug_message("OLD database file exists = " + file_exists(working_directory + "databases/ios.db"));
+file_copy(working_directory + "databases/ios.db", working_directory + "/../Library/Caches/ios2.db");
+show_debug_message("NEW database file exists = " + file_exists(working_directory + "/../Library/Caches/ios2.db"));
+var rslt = SQLiteIosOpenDB( working_directory + "/../Library/Caches/ios2.db" );
+
+##################################################################################################################
+The working_directory in GameMaker games points to <Application_Home>/Documents by default, 
+which is only to be used for documents that the user has created
+or may want to back up to iCloud such as save files and screenshots. 
+Bonus downloaded content must be saved in a different directory 
+such as <Application_Home>/Library/Caches for the game to pass store submission.
+
+You can save to this location by setting the save location to working_directory+'/../Library/Caches/' for example:
+##################################################################################################################
